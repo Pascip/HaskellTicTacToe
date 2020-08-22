@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14e25424-9efa-4508-9ba8-ccf488b181d8" name="Default Changelist" comment="" />
+    <list default="true" id="14e25424-9efa-4508-9ba8-ccf488b181d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/haskelltictactoe.cabal" beforeDir="false" afterPath="$PROJECT_DIR$/haskelltictactoe.cabal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Spec.hs" beforeDir="false" afterPath="$PROJECT_DIR$/test/Spec.hs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +65,7 @@
       <workItem from="1598032344721" duration="2313000" />
       <workItem from="1598034707635" duration="4678000" />
       <workItem from="1598041645989" duration="1686000" />
-      <workItem from="1598124840442" duration="1192000" />
+      <workItem from="1598124840442" duration="2673000" />
     </task>
     <servers />
   </component>
