@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14e25424-9efa-4508-9ba8-ccf488b181d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Haskell Module" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aWzXdSAe5TgsJeVjWUvhzK42wm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14e25424-9efa-4508-9ba8-ccf488b181d8" name="Default Changelist" comment="" />
+      <created>1586866179026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586866179026</updated>
+      <workItem from="1586866184973" duration="147000" />
+      <workItem from="1586866348476" duration="7423000" />
+      <workItem from="1587023815722" duration="5121000" />
+      <workItem from="1587199893019" duration="10617000" />
+      <workItem from="1587216705560" duration="8073000" />
+      <workItem from="1587386919707" duration="8087000" />
+      <workItem from="1587457076260" duration="2658000" />
+      <workItem from="1587891910726" duration="546000" />
+      <workItem from="1587993199445" duration="882000" />
+      <workItem from="1588597740985" duration="2843000" />
+      <workItem from="1595592611417" duration="3794000" />
+      <workItem from="1595597279146" duration="3236000" />
+      <workItem from="1595666123559" duration="5194000" />
+      <workItem from="1596454121650" duration="5880000" />
+      <workItem from="1596878293008" duration="3054000" />
+      <workItem from="1596885398420" duration="1223000" />
+      <workItem from="1597403977110" duration="1016000" />
+      <workItem from="1598032344721" duration="2313000" />
+      <workItem from="1598034707635" duration="4678000" />
+      <workItem from="1598041645989" duration="1686000" />
+      <workItem from="1598124840442" duration="1192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3740" y="724" key="FileChooserDialogImpl" timestamp="1598125366869">
+      <screen x="3000" y="450" width="1920" height="1040" />
+    </state>
+    <state x="3740" y="724" key="FileChooserDialogImpl/0.0.1500.960/3000.450.1920.1040@3000.450.1920.1040" timestamp="1598125366869" />
+    <state x="506" y="128" key="SettingsEditor" timestamp="1595675143441">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="506" y="128" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1595675143441" />
+    <state x="487" y="208" width="672" height="627" key="search.everywhere.popup" timestamp="1596880287873">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="3623" y="675" width="672" height="679" key="search.everywhere.popup/0.0.1500.960/3000.450.1920.1040@3000.450.1920.1040" timestamp="1595667804019" />
+    <state x="487" y="208" width="672" height="627" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1596880287873" />
+  </component>
+</project>
